@@ -1,0 +1,16 @@
+﻿# Java
+*.class
+target/
+bin/
+out/
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+._*
+Thumbs.db
